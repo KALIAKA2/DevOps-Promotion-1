@@ -12840,4 +12840,4 @@
 <entity xmlns="http://www.vordel.com/2005/06/24/entityStore"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="GlobalProperties" entityPK="9081500947058092479" parentPK="0">
 	<fval name="name"><value>Global Properties</value></fval>
 </entity>
-</entityStoreData>
+</entityStoreData>.

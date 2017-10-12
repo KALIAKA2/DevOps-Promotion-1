@@ -3,7 +3,7 @@
 <entityType xmlns="http://www.vordel.com/2005/06/24/entityStore" extends="RootChild" name="ESConfiguration">
         <constant name="_version" type="integer" value="21"/>
         <!--
-            Give this singleton a key.
+            Give this singleton a key.i
         -->
         <field isKey="true" name="name" type="string"/>
         <!-- 
